@@ -21,6 +21,12 @@ body {
 
 .stats-container {
     display: flex;
+    align-items: center;
+}
+
+.stats-container:hover {
+    cursor: pointer;
+    box-shadow: 0 0 30px lightblue;
 }
 
 .stats-card {
@@ -72,4 +78,33 @@ button {
     padding: 1%;
     margin: 1%;
     border-radius: 7px;
+}
+
+
+/* Navbar Styling */
+.navbar {
+    display: flex;
+    justify-content: space-around;
+    background-color: lightblue;
+    padding: 0.5% 0;
+    box-shadow: 0 0 10px #FFFFFF; /* shadow for depth */
+    margin-left: -10px;
+    margin-right: -10px;
+    margin-top: 10px; 
+}
+
+
+
+.navbar a {
+    color: #333; 
+    text-decoration: none;
+    font-weight: 600;
+    padding: 0.5% 1%;
+    border-radius: 7px;
+    transition: background-color 0.3s ease; /* smooth transition for hover effect */
+}
+
+.navbar a:hover {
+    background-color: #a8b0bc; 
+    color: #FFF; 
 }
