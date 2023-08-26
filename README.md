@@ -19,14 +19,13 @@ The following **optional** features are implemented:
 
 * [x] There is a navigation bar that easily takes users to the Description, Stats & Our Games sections
 
-## Video Walkthrough
+## Gif Walkthrough
 
 Here's a walkthrough of implemented features:
-
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+![](https://github.com/yimusad/web102_prework/blob/main/assets/prewokr2-comp.gif)
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
+GIF created with LiceCap
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
@@ -34,7 +33,7 @@ GIF created with ...
 
 ## Notes
 
-Debugging the JavaScript code was a bit of a hassle but I was able to utilize the web developer tools on Chrome & Safari to find and fix issues.
+Debugging the JavaScript code was a bit of a challenge but I was able to utilize the web developer tools on Chrome & Safari to find and fix issues.
 
 ## License
 
